@@ -1,9 +1,9 @@
 {
-	"name": "@gripeless/pico",
+	"name": "@getbugflow/pico",
 	"publishConfig": {
 		"access": "public"
 	},
-	"version": "1.0.1",
+	"version": "0.0.1",
 	"main": "dist/index.js",
 	"scripts": {
 		"build": "del dist && tsc",
