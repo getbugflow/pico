@@ -3,9 +3,9 @@
 <img height="200px" src="https://github.com/gripeless/pico/blob/master/media/pico-shadow.png?raw=true">
 <h3>📸 Pico</h3>
 <p>Take browser screenshots in Javascript</p>
-<img src="https://img.shields.io/npm/v/@gripeless/pico" alt="npm">
+<img src="https://img.shields.io/npm/v/@getbugflow/pico" alt="npm">
 <img src="https://img.shields.io/github/issues/gripeless/pico" alt="GitHub issues">
-<img src="https://img.shields.io/bundlephobia/minzip/@gripeless/pico?label=compressed" alt="Compressed size">
+<img src="https://img.shields.io/bundlephobia/minzip/@getbugflow/pico?label=compressed" alt="Compressed size">
 
 </div>
 
@@ -30,32 +30,6 @@
 <div align="center"><sub>(Original page on the left · PNG output on the right)</sub></div>
 
 <br>
-
----
-
-<div align="center">
-
-
-<sup>Development of this library is possible thanks to:</sup>
-<br>
-<br>
-<a href="https://usegripeless.com">
-<img src="https://github.com/gripeless/pico/blob/master/media/gripeless.svg" height="45px" alt="Gripeless">
-</a>
-<br>
-<sub><b>Gripeless is a free complaint solution for web apps</b></sub>
-<br>
-<sub>Let your users take screenshots of important issues, pipe them into your issue tracker<br> and let your users know when they're fixed, automatically.</sub>
-<br>
-<br>
-<sub>
-<a href="https://usegripeless.com">https://usegripeless.com</a>
-</sub>
-
-</div>
-
----
-
 
 # Goal
 
@@ -210,7 +184,7 @@ devtools, for real uses prefer the other functions.
 # Installation
 
 ```bash
-$ npm install @gripeless/pico
+$ npm install @getbugflow/pico
 ```
 
 The module is intended to be used exclusively in the browser via a code bundler
@@ -246,6 +220,6 @@ To the authors of the above code, thank you for your awesome work.
 
 # License
 
-MIT (c) 2020 Primitive Software
+MIT (c) 2022 521 Dimensions LLC
 
-https://usegripeless.com
+https://getbugflow.com

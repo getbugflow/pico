@@ -1,11 +1,6 @@
 # Contributing
 
-Pico welcomes contributions from everyone, whether it's bug fixes, new
-features or typo fixes.
-
-If you're unsure about anything feel free to
-[email me](mailto:maciej@usegripeless.com) with any questions, I'll be happy
-to assist you.
+Pico welcomes contributions from everyone, whether it's bug fixes, new features or typo fixes.
 
 
 # Testing
