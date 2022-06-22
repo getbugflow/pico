@@ -114,3 +114,12 @@ For consistency, the name of the test case should be kebab-case.
 
 After that's done restart your test REPL and you'll be able to run your test
 case.
+
+## Releasing a new version
+Everything is based off the version defined in `package.json`. To publish a version, follow these steps:
+
+1. Have a clean working repository
+1. Run `npm version [ version-type ]` ([see `npm version` docs](https://docs.npmjs.com/cli/v8/commands/npm-version) for more detail)
+1. Push tags & push the commit
+1. Configure the tag as a release
+1. Be sure to mark as a "PRE-RELEASE" on Github (if applicable)
