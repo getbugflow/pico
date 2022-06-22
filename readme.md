@@ -222,4 +222,4 @@ To the authors of the above code, thank you for your awesome work.
 
 MIT (c) 2022 521 Dimensions LLC
 
-https://getbugflow.com
+https://bugflow.io
