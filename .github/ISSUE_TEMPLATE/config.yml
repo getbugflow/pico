@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: ❓ Support Question
+    url: https://github.com/getbugflow/pico/discussions/2
+    about: Get friendly support from the community on our forum.
+
+  - name: ✨ Request a feature
+    url: https://github.com/getbugflow/pico/discussions/3
+    about: Learn how to request a new feature.
